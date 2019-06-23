@@ -1,0 +1,12 @@
+/home/ayrton/projects/dotnet/EF/Persistencia/bin/Debug/netcoreapp2.2/Persistencia.deps.json
+/home/ayrton/projects/dotnet/EF/Persistencia/bin/Debug/netcoreapp2.2/Persistencia.dll
+/home/ayrton/projects/dotnet/EF/Persistencia/bin/Debug/netcoreapp2.2/Persistencia.pdb
+/home/ayrton/projects/dotnet/EF/Persistencia/bin/Debug/netcoreapp2.2/Model.dll
+/home/ayrton/projects/dotnet/EF/Persistencia/bin/Debug/netcoreapp2.2/Model.pdb
+/home/ayrton/projects/dotnet/EF/Persistencia/obj/Debug/netcoreapp2.2/Persistencia.csprojAssemblyReference.cache
+/home/ayrton/projects/dotnet/EF/Persistencia/obj/Debug/netcoreapp2.2/Persistencia.csproj.CoreCompileInputs.cache
+/home/ayrton/projects/dotnet/EF/Persistencia/obj/Debug/netcoreapp2.2/Persistencia.AssemblyInfoInputs.cache
+/home/ayrton/projects/dotnet/EF/Persistencia/obj/Debug/netcoreapp2.2/Persistencia.AssemblyInfo.cs
+/home/ayrton/projects/dotnet/EF/Persistencia/obj/Debug/netcoreapp2.2/Persistencia.csproj.CopyComplete
+/home/ayrton/projects/dotnet/EF/Persistencia/obj/Debug/netcoreapp2.2/Persistencia.dll
+/home/ayrton/projects/dotnet/EF/Persistencia/obj/Debug/netcoreapp2.2/Persistencia.pdb

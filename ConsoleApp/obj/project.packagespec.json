@@ -1,0 +1,53 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/ayrton/projects/dotnet/EF/ConsoleApp/ConsoleApp.csproj",
+    "projectName": "ConsoleApp",
+    "projectPath": "/home/ayrton/projects/dotnet/EF/ConsoleApp/ConsoleApp.csproj",
+    "outputPath": "/home/ayrton/projects/dotnet/EF/ConsoleApp/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/ayrton/projects/dotnet/EF/Model/Model.csproj": {
+            "projectPath": "/home/ayrton/projects/dotnet/EF/Model/Model.csproj"
+          },
+          "/home/ayrton/projects/dotnet/EF/Persistencia/Persistencia.csproj": {
+            "projectPath": "/home/ayrton/projects/dotnet/EF/Persistencia/Persistencia.csproj"
+          },
+          "/home/ayrton/projects/dotnet/EF/Servico/Servico.csproj": {
+            "projectPath": "/home/ayrton/projects/dotnet/EF/Servico/Servico.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd40d830-0a37-4268-8e9f-d8f2a24b8e57" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/API/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+              <folding>
+                <marker date="1560800692202" expanded="false" signature="6:422" ph="..." />
+                <marker date="1560800692202" expanded="true" signature="437:2068" ph="{...}" />
+                <marker date="1560800692202" expanded="true" signature="464:2066" ph="{...}" />
+                <marker date="1560800692202" expanded="true" signature="600:753" ph="{...}" />
+                <marker date="1560800692202" expanded="true" signature="976:1401" ph="{...}" />
+                <marker date="1560800692202" expanded="true" signature="1116:1389" ph="{...}" />
+                <marker date="1560800692202" expanded="true" signature="1199:1373" ph="{...}" />
+                <marker date="1560800692202" expanded="true" signature="1589:2060" ph="{...}" />
+                <marker date="1560800692202" expanded="true" signature="1636:1713" ph="{...}" />
+                <marker date="1560800692202" expanded="true" signature="1730:1933" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2D506C52-CF4B-4BDB-B896-80B6E2C92982/bf/7d40ab30/DbSet`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Persistencia/CustomerDAL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Persistencia/PrescriptionDAL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Persistencia/VetDAL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Servico/AnimalService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Servico/ConsultationService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Servico/CustomerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Servico/PrescriptionService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Servico/VetService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/API/Controllers/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Persistencia/EFContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/API/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/API/Controllers/ConsultationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/API/Controllers/AnimalController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/API/Controllers/VetController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Model/Customer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Model/Animal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Model/Consultation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/API/Controllers/PrescriptionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Model/Prescription.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Model/Vet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Persistencia/AnimalDAL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Persistencia/ConsultationDAL.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Model/Class1.cs" />
+        <option value="$PROJECT_DIR$/Persistencia/Class1.cs" />
+        <option value="$PROJECT_DIR$/Model/Car.cs" />
+        <option value="$PROJECT_DIR$/Servico/Class1.cs" />
+        <option value="$PROJECT_DIR$/Persistencia/PersonDAL.cs" />
+        <option value="$PROJECT_DIR$/Servico/PersonService.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp/Program.cs" />
+        <option value="$PROJECT_DIR$/Model/Person.cs" />
+        <option value="$PROJECT_DIR$/Model/Prescription.cs" />
+        <option value="$PROJECT_DIR$/Persistencia/CarDAL.cs" />
+        <option value="$PROJECT_DIR$/Model/Income.cs" />
+        <option value="$PROJECT_DIR$/API/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/Persistencia/EFContext.cs" />
+        <option value="$PROJECT_DIR$/Model/Vet.cs" />
+        <option value="$PROJECT_DIR$/Model/Consultation.cs" />
+        <option value="$PROJECT_DIR$/Model/Customer.cs" />
+        <option value="$PROJECT_DIR$/Persistencia/VetDAL.cs" />
+        <option value="$PROJECT_DIR$/Servico/VetService.cs" />
+        <option value="$PROJECT_DIR$/Servico/PrescriptionService.cs" />
+        <option value="$PROJECT_DIR$/Servico/CustomerService.cs" />
+        <option value="$PROJECT_DIR$/Servico/ConsultationService.cs" />
+        <option value="$PROJECT_DIR$/Servico/AnimalService.cs" />
+        <option value="$PROJECT_DIR$/API/Controllers/VetController.cs" />
+        <option value="$PROJECT_DIR$/API/Controllers/CustomerController.cs" />
+        <option value="$PROJECT_DIR$/Persistencia/CustomerDAL.cs" />
+        <option value="$PROJECT_DIR$/Persistencia/AnimalDAL.cs" />
+        <option value="$PROJECT_DIR$/Persistencia/ConsultationDAL.cs" />
+        <option value="$PROJECT_DIR$/Persistencia/PrescriptionDAL.cs" />
+        <option value="$PROJECT_DIR$/API/Controllers/AnimalController.cs" />
+        <option value="$PROJECT_DIR$/API/Controllers/ConsultationController.cs" />
+        <option value="$PROJECT_DIR$/API/Controllers/PrescriptionController.cs" />
+        <option value="$PROJECT_DIR$/Model/Animal.cs" />
+        <option value="$PROJECT_DIR$/API/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="707" />
+    <option name="y" value="25" />
+    <option name="width" value="659" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="EF" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="EF" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="API" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/API/bin/Debug/netcoreapp2.2/API.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/API/API.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd40d830-0a37-4268-8e9f-d8f2a24b8e57" name="Default Changelist" comment="" />
+      <created>1559060447447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559060447447</updated>
+      <workItem from="1559060454226" duration="5971000" />
+      <workItem from="1560283648317" duration="6008000" />
+      <workItem from="1560337878165" duration="3524000" />
+      <workItem from="1560795506637" duration="3266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18769000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="707" y="25" width="659" height="743" extended-state="4" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28402832" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39772728" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32954547" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="14" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="REST Client" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2D506C52-CF4B-4BDB-B896-80B6E2C92982/bf/7d40ab30/DbSet`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2048">
+          <caret line="55" column="33" lean-forward="true" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servico/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/Model/Car.cs" />
+    <entry file="file://$PROJECT_DIR$/Model/Person.cs" />
+    <entry file="file://$PROJECT_DIR$/Persistencia/PersonDAL.cs" />
+    <entry file="file://$PROJECT_DIR$/Persistencia/CarDAL.cs" />
+    <entry file="file://$PROJECT_DIR$/Servico/PersonService.cs" />
+    <entry file="file://$PROJECT_DIR$/Model/Income.cs" />
+    <entry file="file://$PROJECT_DIR$/API/Controllers/ValuesController.cs" />
+    <entry file="file://$PROJECT_DIR$/Model/Prescription.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+          <folding>
+            <marker date="1560287718127" expanded="true" signature="15:298" ph="{...}" />
+            <marker date="1560287718127" expanded="true" signature="47:296" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Vet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <marker date="1560291134323" expanded="true" signature="50:264" ph="{...}" />
+            <marker date="1560291134323" expanded="true" signature="73:262" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <marker date="1559066279727" expanded="false" signature="6:61" ph="..." />
+            <marker date="1559066279727" expanded="true" signature="83:963" ph="{...}" />
+            <marker date="1559066279727" expanded="true" signature="103:961" ph="{...}" />
+            <marker date="1559066279727" expanded="true" signature="149:955" ph="{...}" />
+            <marker date="1559066279727" expanded="true" signature="630:945" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistencia/EFContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <marker date="1560290667326" expanded="false" signature="6:49" ph="..." />
+            <marker date="1560290667326" expanded="true" signature="73:673" ph="{...}" />
+            <marker date="1560290667326" expanded="true" signature="113:671" ph="{...}" />
+            <marker date="1560290667326" expanded="true" signature="511:665" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Consultation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <marker date="1560291151999" expanded="false" signature="6:47" ph="..." />
+            <marker date="1560291151999" expanded="true" signature="64:612" ph="{...}" />
+            <marker date="1560291151999" expanded="true" signature="96:610" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servico/VetService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <marker date="1560344428677" expanded="false" signature="6:66" ph="..." />
+            <marker date="1560344428677" expanded="true" signature="85:531" ph="{...}" />
+            <marker date="1560344428677" expanded="true" signature="115:529" ph="{...}" />
+            <marker date="1560344428677" expanded="true" signature="207:261" ph="{...}" />
+            <marker date="1560344428677" expanded="true" signature="296:351" ph="{...}" />
+            <marker date="1560344428677" expanded="true" signature="387:436" ph="{...}" />
+            <marker date="1560344428677" expanded="true" signature="473:523" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servico/PrescriptionService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <marker date="1560344436862" expanded="false" signature="6:66" ph="..." />
+            <marker date="1560344436862" expanded="true" signature="85:630" ph="{...}" />
+            <marker date="1560344436862" expanded="true" signature="124:628" ph="{...}" />
+            <marker date="1560344436862" expanded="true" signature="243:297" ph="{...}" />
+            <marker date="1560344436862" expanded="true" signature="341:396" ph="{...}" />
+            <marker date="1560344436862" expanded="true" signature="450:508" ph="{...}" />
+            <marker date="1560344436862" expanded="true" signature="563:622" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servico/ConsultationService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <marker date="1560344485258" expanded="false" signature="6:66" ph="..." />
+            <marker date="1560344485258" expanded="true" signature="85:630" ph="{...}" />
+            <marker date="1560344485258" expanded="true" signature="124:628" ph="{...}" />
+            <marker date="1560344485258" expanded="true" signature="243:297" ph="{...}" />
+            <marker date="1560344485258" expanded="true" signature="341:396" ph="{...}" />
+            <marker date="1560344485258" expanded="true" signature="450:508" ph="{...}" />
+            <marker date="1560344485258" expanded="true" signature="563:622" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servico/AnimalService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <marker date="1560344495718" expanded="false" signature="6:66" ph="..." />
+            <marker date="1560344495718" expanded="true" signature="85:564" ph="{...}" />
+            <marker date="1560344495718" expanded="true" signature="118:562" ph="{...}" />
+            <marker date="1560344495718" expanded="true" signature="219:273" ph="{...}" />
+            <marker date="1560344495718" expanded="true" signature="311:366" ph="{...}" />
+            <marker date="1560344495718" expanded="true" signature="408:460" ph="{...}" />
+            <marker date="1560344495718" expanded="true" signature="503:556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Customer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <marker date="1560291159715" expanded="true" signature="50:246" ph="{...}" />
+            <marker date="1560291159715" expanded="true" signature="78:244" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/Controllers/CustomerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+          <folding>
+            <marker date="1560344766797" expanded="false" signature="6:156" ph="..." />
+            <marker date="1560344766797" expanded="true" signature="183:2000" ph="{...}" />
+            <marker date="1560344766797" expanded="true" signature="290:1998" ph="{...}" />
+            <marker date="1560344766797" expanded="true" signature="399:550" ph="{...}" />
+            <marker date="1560344766797" expanded="true" signature="658:902" ph="{...}" />
+            <marker date="1560344766797" expanded="true" signature="799:862" ph="{...}" />
+            <marker date="1560344766797" expanded="true" signature="1024:1185" ph="{...}" />
+            <marker date="1560344766797" expanded="true" signature="1323:1606" ph="{...}" />
+            <marker date="1560344766797" expanded="true" signature="1426:1489" ph="{...}" />
+            <marker date="1560344766797" expanded="true" signature="1713:1992" ph="{...}" />
+            <marker date="1560344766797" expanded="true" signature="1854:1917" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servico/CustomerService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <marker date="1560344476170" expanded="false" signature="6:66" ph="..." />
+            <marker date="1560344476170" expanded="true" signature="85:586" ph="{...}" />
+            <marker date="1560344476170" expanded="true" signature="120:584" ph="{...}" />
+            <marker date="1560344476170" expanded="true" signature="227:281" ph="{...}" />
+            <marker date="1560344476170" expanded="true" signature="321:376" ph="{...}" />
+            <marker date="1560344476170" expanded="true" signature="422:476" ph="{...}" />
+            <marker date="1560344476170" expanded="true" signature="523:578" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistencia/AnimalDAL.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <marker date="1560345050176" expanded="false" signature="6:65" ph="..." />
+            <marker date="1560345050176" expanded="true" signature="89:1155" ph="{...}" />
+            <marker date="1560345050176" expanded="true" signature="118:1153" ph="{...}" />
+            <marker date="1560345050176" expanded="true" signature="168:315" ph="{...}" />
+            <marker date="1560345050176" expanded="true" signature="228:305" ph="{...}" />
+            <marker date="1560345050176" expanded="true" signature="353:500" ph="{...}" />
+            <marker date="1560345050176" expanded="true" signature="413:490" ph="{...}" />
+            <marker date="1560345050176" expanded="true" signature="542:919" ph="{...}" />
+            <marker date="1560345050176" expanded="true" signature="602:909" ph="{...}" />
+            <marker date="1560345050176" expanded="true" signature="661:746" ph="{...}" />
+            <marker date="1560345050176" expanded="true" signature="767:855" ph="{...}" />
+            <marker date="1560345050176" expanded="true" signature="962:1147" ph="{...}" />
+            <marker date="1560345050176" expanded="true" signature="1022:1137" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistencia/ConsultationDAL.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+          <caret line="34" column="61" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+          <folding>
+            <marker date="1560345072029" expanded="false" signature="6:65" ph="..." />
+            <marker date="1560345072029" expanded="true" signature="89:1257" ph="{...}" />
+            <marker date="1560345072029" expanded="true" signature="124:1255" ph="{...}" />
+            <marker date="1560345072029" expanded="true" signature="180:333" ph="{...}" />
+            <marker date="1560345072029" expanded="true" signature="240:323" ph="{...}" />
+            <marker date="1560345072029" expanded="true" signature="377:530" ph="{...}" />
+            <marker date="1560345072029" expanded="true" signature="437:520" ph="{...}" />
+            <marker date="1560345072029" expanded="true" signature="584:997" ph="{...}" />
+            <marker date="1560345072029" expanded="true" signature="644:987" ph="{...}" />
+            <marker date="1560345072029" expanded="true" signature="715:812" ph="{...}" />
+            <marker date="1560345072029" expanded="true" signature="833:933" ph="{...}" />
+            <marker date="1560345072029" expanded="true" signature="1052:1249" ph="{...}" />
+            <marker date="1560345072029" expanded="true" signature="1112:1239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistencia/CustomerDAL.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="40" />
+          <folding>
+            <marker date="1560345026308" expanded="false" signature="6:65" ph="..." />
+            <marker date="1560345026308" expanded="true" signature="89:1189" ph="{...}" />
+            <marker date="1560345026308" expanded="true" signature="120:1187" ph="{...}" />
+            <marker date="1560345026308" expanded="true" signature="172:321" ph="{...}" />
+            <marker date="1560345026308" expanded="true" signature="232:311" ph="{...}" />
+            <marker date="1560345026308" expanded="true" signature="361:510" ph="{...}" />
+            <marker date="1560345026308" expanded="true" signature="421:500" ph="{...}" />
+            <marker date="1560345026308" expanded="true" signature="556:945" ph="{...}" />
+            <marker date="1560345026308" expanded="true" signature="616:935" ph="{...}" />
+            <marker date="1560345026308" expanded="true" signature="679:768" ph="{...}" />
+            <marker date="1560345026308" expanded="true" signature="789:881" ph="{...}" />
+            <marker date="1560345026308" expanded="true" signature="992:1181" ph="{...}" />
+            <marker date="1560345026308" expanded="true" signature="1052:1171" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistencia/PrescriptionDAL.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding>
+            <marker date="1560345090109" expanded="false" signature="6:65" ph="..." />
+            <marker date="1560345090109" expanded="true" signature="89:1257" ph="{...}" />
+            <marker date="1560345090109" expanded="true" signature="124:1255" ph="{...}" />
+            <marker date="1560345090109" expanded="true" signature="180:333" ph="{...}" />
+            <marker date="1560345090109" expanded="true" signature="240:323" ph="{...}" />
+            <marker date="1560345090109" expanded="true" signature="377:530" ph="{...}" />
+            <marker date="1560345090109" expanded="true" signature="437:520" ph="{...}" />
+            <marker date="1560345090109" expanded="true" signature="584:997" ph="{...}" />
+            <marker date="1560345090109" expanded="true" signature="644:987" ph="{...}" />
+            <marker date="1560345090109" expanded="true" signature="715:812" ph="{...}" />
+            <marker date="1560345090109" expanded="true" signature="833:933" ph="{...}" />
+            <marker date="1560345090109" expanded="true" signature="1052:1249" ph="{...}" />
+            <marker date="1560345090109" expanded="true" signature="1112:1239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/Controllers/AnimalController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <marker date="1560345163930" expanded="false" signature="6:156" ph="..." />
+            <marker date="1560345163930" expanded="true" signature="183:1935" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="288:1933" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="393:538" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="642:878" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="777:840" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="992:1147" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="1277:1551" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="1379:1442" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="1656:1927" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="1791:1854" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/Controllers/ConsultationController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <marker date="1560345192618" expanded="false" signature="6:156" ph="..." />
+            <marker date="1560345192618" expanded="true" signature="183:2133" ph="{...}" />
+            <marker date="1560345192618" expanded="true" signature="294:2131" ph="{...}" />
+            <marker date="1560345192618" expanded="true" signature="411:574" ph="{...}" />
+            <marker date="1560345192618" expanded="true" signature="690:950" ph="{...}" />
+            <marker date="1560345192618" expanded="true" signature="843:906" ph="{...}" />
+            <marker date="1560345192618" expanded="true" signature="1088:1261" ph="{...}" />
+            <marker date="1560345192618" expanded="true" signature="1415:1719" ph="{...}" />
+            <marker date="1560345192618" expanded="true" signature="1523:1586" ph="{...}" />
+            <marker date="1560345192618" expanded="true" signature="1830:2125" ph="{...}" />
+            <marker date="1560345192618" expanded="true" signature="1983:2046" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/Controllers/PrescriptionController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <marker date="1560345221714" expanded="false" signature="6:156" ph="..." />
+            <marker date="1560345221714" expanded="true" signature="183:2133" ph="{...}" />
+            <marker date="1560345221714" expanded="true" signature="294:2131" ph="{...}" />
+            <marker date="1560345221714" expanded="true" signature="411:574" ph="{...}" />
+            <marker date="1560345221714" expanded="true" signature="690:950" ph="{...}" />
+            <marker date="1560345221714" expanded="true" signature="843:906" ph="{...}" />
+            <marker date="1560345221714" expanded="true" signature="1088:1261" ph="{...}" />
+            <marker date="1560345221714" expanded="true" signature="1415:1719" ph="{...}" />
+            <marker date="1560345221714" expanded="true" signature="1523:1586" ph="{...}" />
+            <marker date="1560345221714" expanded="true" signature="1830:2125" ph="{...}" />
+            <marker date="1560345221714" expanded="true" signature="1983:2046" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/Controllers/VetController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1560344698440" expanded="false" signature="6:156" ph="..." />
+            <marker date="1560344698440" expanded="true" signature="183:1836" ph="{...}" />
+            <marker date="1560344698440" expanded="true" signature="285:1834" ph="{...}" />
+            <marker date="1560344698440" expanded="true" signature="384:520" ph="{...}" />
+            <marker date="1560344698440" expanded="true" signature="618:842" ph="{...}" />
+            <marker date="1560344698440" expanded="true" signature="744:807" ph="{...}" />
+            <marker date="1560344698440" expanded="true" signature="944:1090" ph="{...}" />
+            <marker date="1560344698440" expanded="true" signature="1208:1467" ph="{...}" />
+            <marker date="1560344698440" expanded="true" signature="1307:1370" ph="{...}" />
+            <marker date="1560344698440" expanded="true" signature="1569:1828" ph="{...}" />
+            <marker date="1560344698440" expanded="true" signature="1695:1758" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistencia/VetDAL.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1560293081344" expanded="false" signature="6:79" ph="..." />
+            <marker date="1560293081344" expanded="true" signature="103:1118" ph="{...}" />
+            <marker date="1560293081344" expanded="true" signature="129:1116" ph="{...}" />
+            <marker date="1560293081344" expanded="true" signature="176:320" ph="{...}" />
+            <marker date="1560293081344" expanded="true" signature="236:310" ph="{...}" />
+            <marker date="1560293081344" expanded="true" signature="355:499" ph="{...}" />
+            <marker date="1560293081344" expanded="true" signature="415:489" ph="{...}" />
+            <marker date="1560293081344" expanded="true" signature="535:894" ph="{...}" />
+            <marker date="1560293081344" expanded="true" signature="595:884" ph="{...}" />
+            <marker date="1560293081344" expanded="true" signature="648:727" ph="{...}" />
+            <marker date="1560293081344" expanded="true" signature="748:830" ph="{...}" />
+            <marker date="1560293081344" expanded="true" signature="931:1110" ph="{...}" />
+            <marker date="1560293081344" expanded="true" signature="991:1100" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Animal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <marker date="1560356775299" expanded="true" signature="50:389" ph="{...}" />
+            <marker date="1560356775299" expanded="true" signature="76:387" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+          <folding>
+            <marker date="1560800692202" expanded="false" signature="6:422" ph="..." />
+            <marker date="1560800692202" expanded="true" signature="437:2068" ph="{...}" />
+            <marker date="1560800692202" expanded="true" signature="464:2066" ph="{...}" />
+            <marker date="1560800692202" expanded="true" signature="600:753" ph="{...}" />
+            <marker date="1560800692202" expanded="true" signature="976:1401" ph="{...}" />
+            <marker date="1560800692202" expanded="true" signature="1116:1389" ph="{...}" />
+            <marker date="1560800692202" expanded="true" signature="1199:1373" ph="{...}" />
+            <marker date="1560800692202" expanded="true" signature="1589:2060" ph="{...}" />
+            <marker date="1560800692202" expanded="true" signature="1636:1713" ph="{...}" />
+            <marker date="1560800692202" expanded="true" signature="1730:1933" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

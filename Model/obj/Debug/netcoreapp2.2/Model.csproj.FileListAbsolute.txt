@@ -1,0 +1,9 @@
+/home/ayrton/projects/dotnet/EF/Model/bin/Debug/netcoreapp2.2/Model.deps.json
+/home/ayrton/projects/dotnet/EF/Model/bin/Debug/netcoreapp2.2/Model.dll
+/home/ayrton/projects/dotnet/EF/Model/bin/Debug/netcoreapp2.2/Model.pdb
+/home/ayrton/projects/dotnet/EF/Model/obj/Debug/netcoreapp2.2/Model.csprojAssemblyReference.cache
+/home/ayrton/projects/dotnet/EF/Model/obj/Debug/netcoreapp2.2/Model.csproj.CoreCompileInputs.cache
+/home/ayrton/projects/dotnet/EF/Model/obj/Debug/netcoreapp2.2/Model.AssemblyInfoInputs.cache
+/home/ayrton/projects/dotnet/EF/Model/obj/Debug/netcoreapp2.2/Model.AssemblyInfo.cs
+/home/ayrton/projects/dotnet/EF/Model/obj/Debug/netcoreapp2.2/Model.dll
+/home/ayrton/projects/dotnet/EF/Model/obj/Debug/netcoreapp2.2/Model.pdb

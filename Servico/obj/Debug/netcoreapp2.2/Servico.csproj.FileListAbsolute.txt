@@ -1,0 +1,14 @@
+/home/ayrton/projects/dotnet/EF/Servico/bin/Debug/netcoreapp2.2/Servico.deps.json
+/home/ayrton/projects/dotnet/EF/Servico/bin/Debug/netcoreapp2.2/Servico.dll
+/home/ayrton/projects/dotnet/EF/Servico/bin/Debug/netcoreapp2.2/Servico.pdb
+/home/ayrton/projects/dotnet/EF/Servico/bin/Debug/netcoreapp2.2/Model.dll
+/home/ayrton/projects/dotnet/EF/Servico/bin/Debug/netcoreapp2.2/Persistencia.dll
+/home/ayrton/projects/dotnet/EF/Servico/bin/Debug/netcoreapp2.2/Persistencia.pdb
+/home/ayrton/projects/dotnet/EF/Servico/bin/Debug/netcoreapp2.2/Model.pdb
+/home/ayrton/projects/dotnet/EF/Servico/obj/Debug/netcoreapp2.2/Servico.csprojAssemblyReference.cache
+/home/ayrton/projects/dotnet/EF/Servico/obj/Debug/netcoreapp2.2/Servico.csproj.CoreCompileInputs.cache
+/home/ayrton/projects/dotnet/EF/Servico/obj/Debug/netcoreapp2.2/Servico.AssemblyInfoInputs.cache
+/home/ayrton/projects/dotnet/EF/Servico/obj/Debug/netcoreapp2.2/Servico.AssemblyInfo.cs
+/home/ayrton/projects/dotnet/EF/Servico/obj/Debug/netcoreapp2.2/Servico.csproj.CopyComplete
+/home/ayrton/projects/dotnet/EF/Servico/obj/Debug/netcoreapp2.2/Servico.dll
+/home/ayrton/projects/dotnet/EF/Servico/obj/Debug/netcoreapp2.2/Servico.pdb
