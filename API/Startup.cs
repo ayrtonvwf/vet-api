@@ -23,6 +23,7 @@ namespace API
             Configuration = configuration;
 
             var context = new EFContext();
+            context.Database.EnsureDeleted();
             context.Database.EnsureCreated();
         }
 

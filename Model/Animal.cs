@@ -8,6 +8,8 @@ namespace Model
         
         public string Breed { get; set; }
         
+        public string Name { get; set; }
+        
         public long CustomerID { get; set; }
         
         public virtual Customer Customer { get; set; }

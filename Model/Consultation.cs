@@ -10,6 +10,8 @@ namespace Model
         public DateTime Date { get; set; }
 
         public DateTime PaymentExpiration { get; set; }
+        
+        public string Description { get; set; }
 
         public double Value { get; set; }
 
