@@ -2,31 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd40d830-0a37-4268-8e9f-d8f2a24b8e57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.EF/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EF/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Startup.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/bin/Debug/netcoreapp2.2/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/API/bin/Debug/netcoreapp2.2/API.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/bin/Debug/netcoreapp2.2/API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/API/bin/Debug/netcoreapp2.2/API.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/bin/Debug/netcoreapp2.2/Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/API/bin/Debug/netcoreapp2.2/Model.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/bin/Debug/netcoreapp2.2/Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/API/bin/Debug/netcoreapp2.2/Model.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/obj/Debug/netcoreapp2.2/API.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/Debug/netcoreapp2.2/API.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/obj/Debug/netcoreapp2.2/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/Debug/netcoreapp2.2/API.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/obj/Debug/netcoreapp2.2/API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/Debug/netcoreapp2.2/API.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/Animal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Animal.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/Consultation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Consultation.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/bin/Debug/netcoreapp2.2/Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Model/bin/Debug/netcoreapp2.2/Model.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/bin/Debug/netcoreapp2.2/Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Model/bin/Debug/netcoreapp2.2/Model.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp2.2/Model.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp2.2/Model.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp2.2/Model.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp2.2/Model.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp2.2/Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp2.2/Model.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp2.2/Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Model/obj/Debug/netcoreapp2.2/Model.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistencia/bin/Debug/netcoreapp2.2/Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Persistencia/bin/Debug/netcoreapp2.2/Model.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistencia/bin/Debug/netcoreapp2.2/Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Persistencia/bin/Debug/netcoreapp2.2/Model.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistencia/obj/Debug/netcoreapp2.2/Persistencia.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Persistencia/obj/Debug/netcoreapp2.2/Persistencia.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Persistencia/obj/Debug/netcoreapp2.2/Persistencia.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Persistencia/obj/Debug/netcoreapp2.2/Persistencia.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Servico/bin/Debug/netcoreapp2.2/Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Servico/bin/Debug/netcoreapp2.2/Model.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Servico/bin/Debug/netcoreapp2.2/Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Servico/bin/Debug/netcoreapp2.2/Model.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Servico/obj/Debug/netcoreapp2.2/Servico.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Servico/obj/Debug/netcoreapp2.2/Servico.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Servico/obj/Debug/netcoreapp2.2/Servico.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Servico/obj/Debug/netcoreapp2.2/Servico.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,84 +21,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/API/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="192">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding>
-                <marker date="1561651430119" expanded="false" signature="6:422" ph="..." />
-                <marker date="1561651430119" expanded="true" signature="437:2114" ph="{...}" />
-                <marker date="1561651430119" expanded="true" signature="464:2112" ph="{...}" />
-                <marker date="1561651430119" expanded="true" signature="600:799" ph="{...}" />
-                <marker date="1561651430119" expanded="true" signature="1022:1447" ph="{...}" />
-                <marker date="1561651430119" expanded="true" signature="1162:1435" ph="{...}" />
-                <marker date="1561651430119" expanded="true" signature="1245:1419" ph="{...}" />
-                <marker date="1561651430119" expanded="true" signature="1635:2106" ph="{...}" />
-                <marker date="1561651430119" expanded="true" signature="1682:1759" ph="{...}" />
-                <marker date="1561651430119" expanded="true" signature="1776:1979" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/API/Controllers/AnimalController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144">
-              <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
-              <folding>
-                <marker date="1560345163930" expanded="false" signature="6:156" ph="..." />
-                <marker date="1560345163930" expanded="true" signature="183:1935" ph="{...}" />
-                <marker date="1560345163930" expanded="true" signature="288:1933" ph="{...}" />
-                <marker date="1560345163930" expanded="true" signature="393:538" ph="{...}" />
-                <marker date="1560345163930" expanded="true" signature="642:878" ph="{...}" />
-                <marker date="1560345163930" expanded="true" signature="777:840" ph="{...}" />
-                <marker date="1560345163930" expanded="true" signature="992:1147" ph="{...}" />
-                <marker date="1560345163930" expanded="true" signature="1277:1551" ph="{...}" />
-                <marker date="1560345163930" expanded="true" signature="1379:1442" ph="{...}" />
-                <marker date="1560345163930" expanded="true" signature="1656:1927" ph="{...}" />
-                <marker date="1560345163930" expanded="true" signature="1791:1854" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Model/Animal.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-              <folding>
-                <marker date="1561651348499" expanded="true" signature="50:439" ph="{...}" />
-                <marker date="1561651348499" expanded="true" signature="76:437" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Model/Consultation.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <marker date="1561651376995" expanded="false" signature="6:47" ph="..." />
-                <marker date="1561651376995" expanded="true" signature="64:669" ph="{...}" />
-                <marker date="1561651376995" expanded="true" signature="96:667" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Model/Prescription.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-              <folding>
-                <marker date="1560287718127" expanded="true" signature="15:298" ph="{...}" />
-                <marker date="1560287718127" expanded="true" signature="47:296" ph="{...}" />
+                <marker date="1561839867679" expanded="false" signature="6:422" ph="..." />
+                <marker date="1561839867679" expanded="true" signature="437:2068" ph="{...}" />
+                <marker date="1561839867679" expanded="true" signature="464:2066" ph="{...}" />
+                <marker date="1561839867679" expanded="true" signature="600:753" ph="{...}" />
+                <marker date="1561839867679" expanded="true" signature="976:1401" ph="{...}" />
+                <marker date="1561839867679" expanded="true" signature="1116:1389" ph="{...}" />
+                <marker date="1561839867679" expanded="true" signature="1199:1373" ph="{...}" />
+                <marker date="1561839867679" expanded="true" signature="1589:2060" ph="{...}" />
+                <marker date="1561839867679" expanded="true" signature="1636:1713" ph="{...}" />
+                <marker date="1561839867679" expanded="true" signature="1730:1933" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -192,9 +114,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="549" />
-    <option name="y" value="25" />
-    <option name="width" value="817" />
-    <option name="height" value="743" />
+    <option name="y" value="27" />
+    <option name="width" value="807" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -202,6 +124,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
@@ -215,18 +138,11 @@
               <item name="EF" type="24d0babc:SolutionExplorerModelNode" />
               <item name="API" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="EF" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="API" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,11 +207,12 @@
       <workItem from="1560337878165" duration="3524000" />
       <workItem from="1560795506637" duration="3266000" />
       <workItem from="1561651039502" duration="307000" />
+      <workItem from="1561839822031" duration="430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19076000" />
+    <option name="totallyTimeSpent" value="19506000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -307,9 +224,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="549" y="25" width="817" height="743" extended-state="4" />
+    <frame x="549" y="27" width="807" height="741" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28274968" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29040736" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -328,7 +245,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="14" visible="true" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Build" order="14" visible="true" weight="0.32843137" />
       <window_info anchor="bottom" id="REST Client" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -692,12 +609,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/API/Controllers/AnimalController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+          <folding>
+            <marker date="1560345163930" expanded="true" signature="288:1933" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="393:538" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="642:878" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="777:840" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="992:1147" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="1277:1551" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="1379:1442" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="1656:1927" ph="{...}" />
+            <marker date="1560345163930" expanded="true" signature="1791:1854" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Model/Animal.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
           <folding>
-            <marker date="1561651348499" expanded="true" signature="50:439" ph="{...}" />
             <marker date="1561651348499" expanded="true" signature="76:437" ph="{...}" />
           </folding>
         </state>
@@ -705,8 +639,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Model/Consultation.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="203">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <marker date="1561651376995" expanded="false" signature="6:47" ph="..." />
             <marker date="1561651376995" expanded="true" signature="64:669" ph="{...}" />
@@ -718,7 +652,7 @@
     <entry file="file://$PROJECT_DIR$/Model/Prescription.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
           <folding>
             <marker date="1560287718127" expanded="true" signature="15:298" ph="{...}" />
             <marker date="1560287718127" expanded="true" signature="47:296" ph="{...}" />
@@ -728,39 +662,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/API/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="192">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding>
-            <marker date="1561651430119" expanded="false" signature="6:422" ph="..." />
-            <marker date="1561651430119" expanded="true" signature="437:2114" ph="{...}" />
-            <marker date="1561651430119" expanded="true" signature="464:2112" ph="{...}" />
-            <marker date="1561651430119" expanded="true" signature="600:799" ph="{...}" />
-            <marker date="1561651430119" expanded="true" signature="1022:1447" ph="{...}" />
-            <marker date="1561651430119" expanded="true" signature="1162:1435" ph="{...}" />
-            <marker date="1561651430119" expanded="true" signature="1245:1419" ph="{...}" />
-            <marker date="1561651430119" expanded="true" signature="1635:2106" ph="{...}" />
-            <marker date="1561651430119" expanded="true" signature="1682:1759" ph="{...}" />
-            <marker date="1561651430119" expanded="true" signature="1776:1979" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API/Controllers/AnimalController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
-          <folding>
-            <marker date="1560345163930" expanded="false" signature="6:156" ph="..." />
-            <marker date="1560345163930" expanded="true" signature="183:1935" ph="{...}" />
-            <marker date="1560345163930" expanded="true" signature="288:1933" ph="{...}" />
-            <marker date="1560345163930" expanded="true" signature="393:538" ph="{...}" />
-            <marker date="1560345163930" expanded="true" signature="642:878" ph="{...}" />
-            <marker date="1560345163930" expanded="true" signature="777:840" ph="{...}" />
-            <marker date="1560345163930" expanded="true" signature="992:1147" ph="{...}" />
-            <marker date="1560345163930" expanded="true" signature="1277:1551" ph="{...}" />
-            <marker date="1560345163930" expanded="true" signature="1379:1442" ph="{...}" />
-            <marker date="1560345163930" expanded="true" signature="1656:1927" ph="{...}" />
-            <marker date="1560345163930" expanded="true" signature="1791:1854" ph="{...}" />
+            <marker date="1561839867679" expanded="false" signature="6:422" ph="..." />
+            <marker date="1561839867679" expanded="true" signature="437:2068" ph="{...}" />
+            <marker date="1561839867679" expanded="true" signature="464:2066" ph="{...}" />
+            <marker date="1561839867679" expanded="true" signature="600:753" ph="{...}" />
+            <marker date="1561839867679" expanded="true" signature="976:1401" ph="{...}" />
+            <marker date="1561839867679" expanded="true" signature="1116:1389" ph="{...}" />
+            <marker date="1561839867679" expanded="true" signature="1199:1373" ph="{...}" />
+            <marker date="1561839867679" expanded="true" signature="1589:2060" ph="{...}" />
+            <marker date="1561839867679" expanded="true" signature="1636:1713" ph="{...}" />
+            <marker date="1561839867679" expanded="true" signature="1730:1933" ph="{...}" />
           </folding>
         </state>
       </provider>
